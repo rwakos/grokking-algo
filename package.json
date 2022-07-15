@@ -1,0 +1,27 @@
+{
+  "name": "grokking-algo",
+  "version": "1.0.0",
+  "description": " Grokking Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwakos/grokking-algo.git"
+  },
+  "keywords": [
+    "grokking",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Richard Reveron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwakos/grokking-algo/issues"
+  },
+  "homepage": "https://github.com/rwakos/grokking-algo#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
